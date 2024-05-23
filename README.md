@@ -15,8 +15,8 @@ Sonar's [Clean Code solution](https://www.sonarsource.com/solutions/clean-code/)
 
 ### Ant
 [SonarScanner for Ant](https://docs.sonarsource.com/sonarqube/latest/analyzing-source-code/scanners/sonarscanner-for-ant) is now deprecated. Please migrate to the SonarScanner CLI.
-* [SonarScanner for Ant - Basic](sonar-scanner-ant/ant-basic)
-* [SonarScanner for Ant - Code Coverage](sonar-scanner-ant/ant-coverage)
+* [SonarScanner for Ant - Basic](sonar-scanner-ant-new/ant-basic)
+* [SonarScanner for Ant - Code Coverage](sonar-scanner-ant-new/ant-coverage)
 
 ### Gradle
 If you have a Gradle project, we recommend usage of [SonarScanner for Gradle](https://docs.sonarsource.com/sonarqube/latest/analyzing-source-code/scanners/sonarscanner-for-gradle) or the equivalent SonarScanner for Gradle on your CI pipeline.
